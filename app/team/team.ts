@@ -74,11 +74,6 @@ export const ITteam = [
     desig: "IT Team",
   },
   {
-    name: "Munashe Nyagono",
-    imageUrl: "/images/team/Munashe Nyagono.jpeg",
-    desig: "IT Team",
-  },
-  {
     name: "Parin Arora",
     imageUrl: "/images/team/Parin Arora.jpg",
     desig: "IT Team",
@@ -87,17 +82,7 @@ export const ITteam = [
     name: "Soham Tulsyan",
     imageUrl: "/images/team/Soham Tulsyan.jpeg",
     desig: "IT Team",
-  },
-  // {
-  //   name: "Ayush Chauhan",
-  //   imageUrl: "/images/team/Ayush.jpg",
-  //   desig: "IT Team",
-  // },
-  {
-    name: "Samyak Baid",
-    imageUrl: "/images/team/Samyak Baid.jpg",
-    desig: "IT Team",
-  },
+  }
 ];
 
 export const EventsTeam = [
